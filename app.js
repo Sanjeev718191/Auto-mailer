@@ -5,6 +5,7 @@ const html = `
     <p> Isn't Nodemailer usefull?</p>
 `;
 
+
 async function main() {
     const transporter = nodeMailer.createTransport({
         host: 'smtp.gmail.com',
@@ -28,3 +29,4 @@ async function main() {
 
 main()
 .catch(e => console.log(e));
+
