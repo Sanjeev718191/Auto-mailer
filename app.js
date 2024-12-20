@@ -1,4 +1,5 @@
 const nodeMailer = require('nodemailer');
+const path = require('path');
 
 const html = `
     <h1>Hello World</h1>
@@ -18,10 +19,19 @@ async function main() {
     });
 
     const info = await transporter.sendMail({
-        from: 'sanjeev19203@gmail.com',
-        to: 'tempmovie08@gmail.com',
+        from: {
+            name: 'Sanjeev Kumar',
+            address: 'sanjeev19203@gmail.com'
+        },
+        to: 'tempmovie08@gmail.com, sanjeev718191@gmail.com',
         subject: 'Testing, node mailer',
         html: html,
+        html: html,
+        attachments: {
+            filename: 'Sanjeev.pdf',
+            path: path.join(__dirname, 'Sanjeev_n.pdf'),
+            contentType: 'application/pdf'
+        }
     })
 
     console.log("Message sent: " + info.messageId);
