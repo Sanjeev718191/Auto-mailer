@@ -1,10 +1,9 @@
 const nodeMailer = require('nodemailer');
 const path = require('path');
+const fs = require('fs');
 
-const html = `
-    <h1>Hello World</h1>
-    <p> Isn't Nodemailer usefull?</p>
-`;
+const htmlTemplate = fs.readFileSync(path.join(__dirname, 'mailtemp.html'), 'utf8');
+
 
 
 async function main() {
@@ -25,8 +24,7 @@ async function main() {
         },
         to: 'tempmovie08@gmail.com, sanjeev718191@gmail.com',
         subject: 'Testing, node mailer',
-        html: html,
-        html: html,
+        html: htmlTemplate,
         attachments: {
             filename: 'Sanjeev.pdf',
             path: path.join(__dirname, 'Sanjeev_n.pdf'),
