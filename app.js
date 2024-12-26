@@ -9,8 +9,8 @@ const htmlTemplate = fs.readFileSync(path.join(__dirname, 'mailtemp.html'), 'utf
 // List of recipients
 const recipients = [
     { name: 'John Doe', email: 'tempmovie08@gmail.com', company: 'ABC Corp' },
-    { name: 'Jane Smith', email: 'sanjeev718191@gmail.com', company: 'XYZ Ltd' },
-    { name: 'Alice Johnson', email: 'sanjeev718191@gmail.com', company: 'Tech Solutions' }
+    // { name: 'Jane Smith', email: 'sanjeev718191@gmail.com', company: 'XYZ Ltd' },
+    // { name: 'Alice Johnson', email: 'sanjeev718191@gmail.com', company: 'Tech Solutions' }
 ];
 
 async function sendEmails() {
