@@ -19,8 +19,10 @@ async function sendEmails() {
         port: 465,
         secure: true,
         auth: {
-            user: 'sanjeev19203@gmail.com',
-            pass: 'zjvjehdewjulozvc' // Replace with your actual app password
+            // user: 'sanjeev19203@gmail.com',
+            // pass: 'zjvjehdewjulozvc',
+            user: 'sanjeevkumar718191@gmail.com',
+            pass: 'yqfidqwuzgjuktyv' 
         }
     });
 
