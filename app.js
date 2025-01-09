@@ -14,13 +14,39 @@ const attachments3 = [{ filename: 'Sanjeev.pdf', path: path.join(__dirname, 'San
 
 // Recipient lists
 const recipients1 = [
-    { name: 'Anupriya Chaudhary', email: 'tempmovie08@gmail.com', company: 'PhysicsWallah' },
+    { name: 'Vinayak Naik', email: 'vinayak.naik@infra.market', company: 'Infra.Market' },
+    { name: 'Hariom Verma', email: 'hariom.verma@infra.market', company: 'Infra.Market' },
+    { name: 'Nitin Kumar', email: 'nitin.kumar@infra.market', company: 'Infra.Market' },
+    { name: 'Aniket Dabholkar', email: 'aniket.dabholkar@infra.market', company: 'Infra.Market' },
+    { name: 'Rishabh Bhargava', email: 'rishabh.bhargava@infra.market', company: 'Infra.Market' },
+    { name: 'Mohd Vakiv', email: 'vakiv.mohd@infra.market', company: 'Infra.Market' },
+    { name: 'Mobin Khan', email: 'mobin.khan@infra.market', company: 'Infra.Market' },
+    { name: 'Raghav Goyal', email: 'raghav.goyal@infra.market', company: 'Infra.Market' },
+    { name: 'Rohit Shaky', email: 'rohit.shakya@infra.market', company: 'Infra.Market' },
+    { name: 'Meghana Sridhar', email: 'meghana.s@infra.market', company: 'Infra.Market' },
+    { name: 'Madap Santosh', email: 'santosh.madap@infra.market', company: 'Infra.Market' },
+    { name: 'Kunal Kumar', email: 'kunal.kumar@infra.market', company: 'Infra.Market' },
+    { name: 'Mohit Jain', email: 'mohit.jain@infra.market', company: 'Infra.Market' },
+    { name: 'Sandeep Inamati', email: 'sandeep.inamati@infra.market', company: 'Infra.Market' },
+    { name: 'Yash Agarwal', email: 'yash.agarwal@infra.market', company: 'Infra.Market' },
+    { name: 'Darshpreet Kaur', email: 'darshpreet.kaur@infra.market', company: 'Infra.Market' },
+    { name: 'Sahil Sangurdekar', email: 'sangurdekarsahil@gmail.com', company: 'Infra.Market' },
+    { name: 'Jasvir Kaur', email: 'jasvir.kaur@infra.market', company: 'Infra.Market' },
+    { name: 'Vishakha Joshi', email: 'vishakha.joshi@infra.market', company: 'Infra.Market' },
+    { name: 'Ramesh Katreddi', email: 'ramesh@jumbotail.com', company: 'Jumbotail' },
+    { name: 'Jeevan Singh', email: 'jeevan.singh@jumbotail.com', company: 'Jumbotail' },
+    { name: 'Ashish Parthasarathy', email: 'ashish.parthasarathy@jumbotail.com', company: 'Jumbotail' },
+    { name: 'Gourav Goel', email: 'gourav.goel@jumbotail.com', company: 'Jumbotail' },
+    { name: 'Suraj Kumar', email: 'suraj.kumar@jumbotail.com', company: 'Jumbotail' },
+    { name: 'Shefali Bhardwaj', email: 'shefali.bhardwaj@jumbotail.com', company: 'Jumbotail' },
+    { name: 'Bhoomika Suresh', email: 'bhoomika.suresh@jumbotail.com', company: 'Jumbotail' },
+    { name: 'Shilpa Sampgavakar', email: 'shilpa.sampgavakar@jumbotail.com', company: 'Jumbotail' },
 ];
 const recipients2 = [
-    { name: 'Anupriya Chaudhary', email: 'tempmovie08@gmail.com', company: 'PhysicsWallah' },
+    // { name: 'Anupriya Chaudhary', email: 'tempmovie08@gmail.com', company: 'PhysicsWallah' },
 ];
 const recipients3 = [
-    { name: 'Anupriya Chaudhary', email: 'tempmovie08@gmail.com', company: 'PhysicsWallah' },
+    // { name: 'Anupriya Chaudhary', email: 'tempmovie08@gmail.com', company: 'PhysicsWallah' },
 ];
 
 // Sender email credentials
