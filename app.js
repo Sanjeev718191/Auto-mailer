@@ -15,7 +15,32 @@ const attachments3 = [{ filename: 'Sanjeev.pdf', path: path.join(__dirname, 'San
 // Recipient lists
 const recipients1 = [
     // { name: 'Rahul Garg', email: 'rahul@moglix.com', company: 'Moglix' },
-    
+    { name: 'Aayushi Dhingra', email: 'aayushi.dhingra@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Bhuvan Gupta', email: 'bhuvan.gupta@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Nitin Jain', email: 'nitin@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Asish Mohapatra', email: 'asish@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Prachi Nahata', email: 'prachi.nahata@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Rahul Dubey', email: 'rahul.dubey@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Muskan Pasrija', email: 'muskan.pasrija@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Ashish Kumar', email: 'ashish.kumar@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Harshita Lohani', email: 'harshita.lohani@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Piyush Upadhyay', email: 'piyush@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Divyansh Kamal', email: 'divyansh.kamal@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Revati Agnihotri', email: 'revati.agnihotri@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Sarita Singha', email: 'sarita.singha@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Amod Tripathi', email: 'amod.tripathi@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Parul Arora', email: 'parul.arora@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Rajeev Singh', email: 'rajeev.singh@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Sumit Kumar', email: 'sumit.kumar@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Gunjan Bairolia', email: 'gunjan.bairolia@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Anurag Sharma', email: 'anurag.sarma@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Dattatreya Panta', email: 'dattatreya.panta@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Shivank Jha', email: 'shivank.jha@ofbusiness.in', company: 'OfBusiness' },
+    { name: 'Harsimarbir Singh', email: 'harsimarbir.singh@pristyncare.com', company: 'Pristyn Care' },
+    { name: 'Anjan Das', email: 'anjan.das@pristyncare.com', company: 'Pristyn Care' },
+    { name: 'Vaibhav Kapoor', email: 'vaibhav.kapoor@pristyncare.com', company: 'Pristyn Care' },
+    { name: 'Srinivas', email: 'srinivas.reddy@pristyncare.com', company: 'Pristyn Care' },
+    { name: 'Dimple Jaiswal', email: 'dimple.jaiswal@pristyncare.com', company: 'Pristyn Care' },
 ];
 const recipients2 = [
     // { name: 'Anupriya Chaudhary', email: 'tempmovie08@gmail.com', company: 'PhysicsWallah' },
