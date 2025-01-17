@@ -12,7 +12,8 @@ const attachments1 = [{ filename: 'Sanjeev.pdf', path: path.join(__dirname, 'San
 const attachments2 = [{ filename: 'Sanjeev.pdf', path: path.join(__dirname, 'Sanjeev_new_2.pdf'), contentType: 'application/pdf' }];
 const attachments3 = [{ filename: 'Sanjeev.pdf', path: path.join(__dirname, 'Sanjeev_new_3.pdf'), contentType: 'application/pdf' }];
 
-// Recipient lists
+// List of targeted people of top statups 
+// Send from sanjeevkumar718191
 const recipients1 = [
     // { name: 'Rahul Garg', email: 'rahul@moglix.com', company: 'Moglix' },
     { name: 'Aayushi Dhingra', email: 'aayushi.dhingra@ofbusiness.in', company: 'OfBusiness' },
@@ -42,6 +43,9 @@ const recipients1 = [
     { name: 'Srinivas', email: 'srinivas.reddy@pristyncare.com', company: 'Pristyn Care' },
     { name: 'Dimple Jaiswal', email: 'dimple.jaiswal@pristyncare.com', company: 'Pristyn Care' },
 ];
+
+// List of targeted people 
+// Send from sanjeev718191
 const recipients2 = [
     // { name: 'Anupriya Chaudhary', email: 'tempmovie08@gmail.com', company: 'PhysicsWallah' },
     { name: 'Mansi Jain', email: 'mansi.jain@juspay.in', company: 'Juspay' },
@@ -57,6 +61,9 @@ const recipients2 = [
     { name: 'Bramhansh Marwah', email: 'bramhansh.marwah@juspay.in', company: 'Juspay' },
     { name: 'Spoorthi Ramesh', email: 'spoorthi.ramesh@juspay.in', company: 'Juspay' },
 ];
+
+// List of random people 
+// Send from sanjeev19203
 const recipients3 = [
     // { name: 'Anupriya Chaudhary', email: 'tempmovie08@gmail.com', company: 'PhysicsWallah' },
     { name: 'Anto Faria', email: 'anto.faria@urbanladder.com', company: 'Urban Ladder' },
