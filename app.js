@@ -62,13 +62,6 @@ const recipients2 = [
     { name: 'Ankur Chaudhary', email: 'ankur.chaudhary@juspay.in', company: 'Juspay' },
     { name: 'Arnab Banerjee', email: 'arnab.banerjee@juspay.in', company: 'Juspay' },
     { name: 'Vaibhav Goel', email: 'vaibhav.goel@juspay.in', company: 'Juspay' },
-    { name: 'Harshith Tunuguntla', email: 'harshith.t@juspay.in', company: 'Juspay' },
-    { name: 'Ritesh Pal', email: 'ritesh.pal@juspay.in', company: 'Juspay' },
-    { name: 'Anshika Singh', email: 'anshika.singh@juspay.in', company: 'Juspay' },
-    { name: 'Abhijeet Shankhdhar', email: 'abhijeet.shankhdhar@juspay.in', company: 'Juspay' },
-    { name: 'Dillip Behera', email: 'dillip.behera@juspay.in', company: 'Juspay' },
-    { name: 'Bramhansh Marwah', email: 'bramhansh.marwah@juspay.in', company: 'Juspay' },
-    { name: 'Spoorthi Ramesh', email: 'spoorthi.ramesh@juspay.in', company: 'Juspay' },
 ];
 
 // List of random people 
