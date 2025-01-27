@@ -16,7 +16,26 @@ const attachments3 = [{ filename: 'Sanjeev.pdf', path: path.join(__dirname, 'San
 // Send from sanjeevkumar718191
 const recipients1 = [
     // { name: 'Rahul Garg', email: 'rahul@moglix.com', company: 'Moglix' },
-    
+    { name: 'Mamta Pandey', email: 'mamta.pandey@zupee.in', company: 'Zupee' },
+    { name: 'Sangeetha Swamy', email: 'm.sangeetha@zupee.in', company: 'Zupee' },
+    { name: 'Shivam Sharma', email: 'shivam.sharma@zupee.com', company: 'Zupee' },
+    { name: 'Meenu Bharti', email: 'meenu.bharti@zupee.in', company: 'Zupee' },
+    { name: 'Aman Gupta', email: 'aman.g@zupee.in', company: 'Zupee' },
+    { name: 'Astha Mishra', email: 'astha.mishra@zupee.in', company: 'Zupee' },
+    { name: 'Baljinder Kaur', email: 'baljinder.kaur@zupee.com', company: 'Zupee' },
+    { name: 'Ritwika Maitra', email: 'ritwika.maitra@zupee.in', company: 'Zupee' },
+    { name: 'Saurav Yadav', email: 'saurav.yadav@zupee.in', company: 'Zupee' },
+    { name: 'Rajneesh Yadav', email: 'rajneesh.yadav@zupee.in', company: 'Zupee' },
+    { name: 'Bal Yadav', email: 'bal.sikandar@zupee.in', company: 'Zupee' },
+    { name: 'Raman Dixit', email: 'raman.dixit@zupee.in', company: 'Zupee' },
+    { name: 'Naina Sharma', email: 'naina.sharma@zupee.in', company: 'Zupee' },
+    { name: 'Siddhant Saurabh', email: 'siddhant.saurabh@zupee.in', company: 'Zupee' },
+    { name: 'Shivani Bisht', email: 'shivani.bisht@zupee.in', company: 'Zupee' },
+    { name: 'Vipin Kumar', email: 'vipin.kumar@zupee.in', company: 'Zupee' },
+    { name: 'Nidhi Khedekar', email: 'nidhi.khedekar@zupee.in', company: 'Zupee' },
+    { name: 'Naveen', email: 'naveen.k@zupee.in', company: 'Zupee' },
+    { name: 'Pradeep Agrawal', email: 'pradeep.agrawal@zupee.com', company: 'Zupee' },
+    { name: 'Ayushi Sharma', email: 'ayushi.sharma@zupee.in', company: 'Zupee' },
 ];
 
 // List of targeted people 
