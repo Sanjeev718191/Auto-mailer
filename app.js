@@ -23,7 +23,10 @@ const recipients1 = [
 // Send from sanjeev718191
 const recipients2 = [
     // { name: 'Anupriya Chaudhary', email: 'tempmovie08@gmail.com', company: 'PhysicsWallah' },
-    
+    { name: 'Syed Sandhani', email: 's.syed@salesforce.com', company: 'Salesforce' },
+    { name: 'Syed', email: 'f.syed@salesforce.com', company: 'Salesforce' },
+    { name: 'Shabana Raja', email: 'sraja@salesforce.com', company: 'Salesforce' },
+    { name: 'Jaiprakash Chimanchode', email: 'jchimanchode@salesforce.com', company: 'Salesforce' },
 ];
 
 // List of random people 
