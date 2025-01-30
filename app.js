@@ -16,6 +16,21 @@ const attachments3 = [{ filename: 'Sanjeev.pdf', path: path.join(__dirname, 'San
 // Send from sanjeevkumar718191
 const recipients1 = [
     // { name: 'Rahul Garg', email: 'tempmovie08@gmail.com', company: 'Moglix' },
+    { name: 'Harshit Kunder', email: 'harshit.k@zetwerk.com', company: 'Zetwerk' },
+    { name: 'Anjali Pant', email: 'anjali.p@zetwerk.com', company: 'Zetwerk' },
+    { name: 'Nikhil Kewadkar', email: 'nikhil.k@zetwerk.com', company: 'Zetwerk' },
+    { name: 'Arun N', email: 'arunkumar.n@zetwerk.com', company: 'Zetwerk' },
+    { name: 'Abhishek Dixit', email: 'abhishek.dixit@zetwerk.com', company: 'Zetwerk' },
+    { name: 'Kathyayini', email: 'kathyayini.b@zetwerk.com', company: 'Zetwerk' },
+    { name: 'Sidharth Pillai', email: 'sidharth.p@zetwerk.com', company: 'Zetwerk' },
+    { name: 'Amit Kumar', email: 'amit.kumar2@zetwerk.com', company: 'Zetwerk' },
+    { name: 'Shalini Gusain', email: 'shalini.g@zetwerk.com', company: 'Zetwerk' },
+    { name: 'Ginu Nair', email: 'ginu.n@zetwerk.com', company: 'Zetwerk' },
+    { name: 'Prasanta Biswas', email: 'prasanta.b@zetwerk.com', company: 'Zetwerk' },
+    { name: 'Surendra Rajput', email: 'surendra.r@zetwerk.in', company: 'Zetwerk' },
+    { name: 'Santosh Yadav', email: 'santosh.yadav@zetwerk.com', company: 'Zetwerk' },
+    { name: 'Rajiv Jha', email: 'rajiv.jha@zetwerk.com', company: 'Zetwerk' },
+    { name: 'Anurag Misra', email: 'anurag.misra@zetwerk.com', company: 'Zetwerk' }
 ];
 
 // List of targeted people 
