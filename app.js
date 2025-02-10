@@ -16,25 +16,6 @@ const attachments3 = [{ filename: 'Sanjeev.pdf', path: path.join(__dirname, 'San
 // Send from sanjeevkumar718191
 const recipients1 = [
     // { name: 'Rahul Garg', email: 'tempmovie08@gmail.com', company: 'Moglix' },
-    { name: 'Amit Sharma', email: 'asharma@confluent.io', company: 'Confluent' },
-    { name: 'Happy Arora', email: 'haarora@confluent.io', company: 'Confluent' },
-    { name: 'Kai Waehner', email: 'kai.waehner@confluent.io', company: 'Confluent' },
-    { name: 'Pratul Yadav', email: 'prayadav@confluent.io', company: 'Confluent' },
-    { name: 'Karanpreet Singh', email: 'kasingh@confluent.io', company: 'Confluent' },
-    { name: 'Nadim', email: 'nhossain@confluent.io', company: 'Confluent' },
-    { name: 'Colleen McCreary', email: 'cmccreary@confluent.io', company: 'Confluent' },
-    { name: 'Subashini Venkatesh', email: 'svenkatesh@confluent.io', company: 'Confluent' },
-    { name: 'Rohit Kumar', email: 'rohkumar@confluent.io', company: 'Confluent' },
-    { name: 'Karthik Nair', email: 'knair@confluent.io', company: 'Confluent' },
-    { name: 'Vikash Chauhan', email: 'vchauhan@confluent.io', company: 'Confluent' },
-    { name: 'Tanya Agarwal', email: 'tagarwal@confluent.io', company: 'Confluent' },
-    { name: 'John Sheldon', email: 'jsheldon@confluent.io', company: 'Confluent' },
-    { name: 'Nada Sarsour', email: 'nsarsour@confluent.io', company: 'Confluent' },
-    { name: 'Chiaya Hasegawa', email: 'chasegawa@confluent.io', company: 'Confluent' },
-    { name: 'Rachel Tessier', email: 'rtessier@confluent.io', company: 'Confluent' },
-    { name: 'Teresa Schnorr', email: 'tschnorr@confluent.io', company: 'Confluent' },
-    { name: 'Saubhagya Sharma', email: 'sasharma@confluent.io', company: 'Confluent' },
-    { name: 'Dominic McNamara', email: 'dmcnamara@confluent.io', company: 'Confluent' }
 ];
 
 // List of targeted people 
