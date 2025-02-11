@@ -22,6 +22,37 @@ const recipients1 = [
 // Send from sanjeev718191
 const recipients2 = [
     // { name: 'Anupriya Chaudhary', email: 'tempmovie08@gmail.com', company: 'PhysicsWallah' },
+    { name: 'Chatla Supritha', email: 'chatla.supritha@amazon.com', company: 'AWS' },
+    { name: 'Sonia Vuillermoz', email: 'soniav@amazon.fr', company: 'AWS' },
+    { name: 'Lenosha Moore', email: 'lenosha.moore@gm.com', company: 'AWS' },
+    { name: 'Felicitee Stevenson', email: 'felicitees@amazon.com', company: 'AWS' },
+    { name: 'Charlotte M.', email: 'charlottem@amazon.com', company: 'AWS' },
+    { name: 'Javier Valencia Giraldo', email: 'girjavie@amazon.com', company: 'AWS' },
+    { name: 'Shaily', email: 'shailyp@amazon.com', company: 'AWS' },
+    { name: 'Brandon English', email: 'benglish@amazon.com', company: 'AWS' },
+    { name: 'Sade Thompson', email: 'tsade@amazon.com', company: 'AWS' },
+    { name: 'Kristi Khanna', email: 'khannak@amazon.com', company: 'AWS' },
+    { name: 'Vikas Chakole', email: 'vikas.c@amazon.com', company: 'AWS' },
+    { name: 'Raj Gupta', email: 'guptar@amazon.com', company: 'AWS' },
+    { name: 'Shivam Upadhyay', email: 'upadhyays@amazon.com', company: 'AWS' },
+    { name: 'Prathyusha Nimmakayala', email: 'prathyushan@amazon.com', company: 'AWS' },
+    { name: 'Sam Dinesh', email: 'dinesh.s@amazon.com', company: 'AWS' },
+    { name: 'Lukasz Markowski', email: 'lukaszm@amazon.com', company: 'AWS' },
+    { name: 'Yawar Saqlaini', email: 'ysaqlaini@amazon.com', company: 'AWS' },
+    { name: 'Dipika Ramachandran', email: 'radipika@amazon.com', company: 'AWS' },
+    { name: 'Sam Bridge', email: 'samubrid@amazon.com', company: 'AWS' },
+    { name: 'Palani Vairavan', email: 'palani@amazon.com', company: 'AWS' },
+    { name: 'Josh Opos', email: 'josho@amazon.com', company: 'AWS' },
+    { name: 'Jared Tryon', email: 'jartryon@amazon.com', company: 'AWS' },
+    { name: 'Raveendra', email: 'rtorvi@amazon.com', company: 'AWS' },
+    { name: 'Huan', email: 'huanji@amazon.com', company: 'AWS' },
+    { name: 'Anchal Nema', email: 'annema@amazon.com', company: 'AWS' },
+    { name: 'Pranay Deep', email: 'pranayd@amazon.com', company: 'AWS' },
+    { name: 'Alexander Boyce', email: 'abboyce@amazon.com', company: 'AWS' },
+    { name: 'Tommy Kromer', email: 'tommyk@amazon.com', company: 'AWS' },
+    { name: 'Om', email: 'kom@amazon.com', company: 'AWS' },
+    { name: 'Dharam Bhushan', email: 'dharb@amazon.com', company: 'AWS' },
+    { name: 'Prashaanth', email: 'ravip@amazon.com', company: 'AWS' }
 ];
 
 // List of random people 
