@@ -16,7 +16,40 @@ const attachments3 = [{ filename: 'Sanjeev.pdf', path: path.join(__dirname, 'San
 // Send from sanjeevkumar718191
 const recipients1 = [
     // { name: 'Rahul Garg', email: 'tempmovie08@gmail.com', company: 'Moglix' },
-    
+    { name: 'Jack Totty', email: 'jack.totty@upstart.com', company: 'Upstart' },
+    { name: 'Vanchinathan Chandrasekaran', email: 'vanchinathan.chandrasekaran@upstart.com', company: 'Upstart' },
+    { name: 'Caitlin Fegley', email: 'caitlin.fegley@upstart.com', company: 'Upstart' },
+    { name: 'Kelly Zimmerman', email: 'kelly.zimmerman@upstart.com', company: 'Upstart' },
+    { name: 'Allie Sponseller', email: 'allie.sponseller@upstart.com', company: 'Upstart' },
+    { name: 'Satyam', email: 'satyam.nikhra@upstart.com', company: 'Upstart' },
+    { name: 'David Katz', email: 'david.katz@upstart.com', company: 'Upstart' },
+    { name: 'Arnab Sarkar', email: 'arnab.sarkar@upstart.com', company: 'Upstart' },
+    { name: 'Team', email: 'up.start@upstart.com', company: 'Upstart' },
+    { name: 'Phoenix', email: 'phoenix.pagaduan@upstart.com', company: 'Upstart' },
+    { name: 'Melissa', email: 'melissa.rizek@upstart.com', company: 'Upstart' },
+    { name: 'Hanxu Fan', email: 'hanxu.fan@upstart.com', company: 'Upstart' },
+    { name: 'Wendy Goolsby', email: 'wendy.goolsby@upstart.com', company: 'Upstart' },
+    { name: 'Jemini Jhaveri', email: 'jemini.jhaveri@upstart.com', company: 'Upstart' },
+    { name: 'Andy', email: 'andy.puccio@upstart.com', company: 'Upstart' },
+    { name: 'Andrea', email: 'andrea.hazel@upstart.com', company: 'Upstart' },
+    { name: 'Ryan', email: 'ryan.davis@upstart.com', company: 'Upstart' },
+    { name: 'Alex', email: 'alex.wagner@upstart.com', company: 'Upstart' },
+    { name: 'Qadira Muhammad', email: 'qadira.muhammad@upstart.com', company: 'Upstart' },
+    { name: 'Rachel', email: 'rachel.stewart@upstart.com', company: 'Upstart' },
+    { name: 'Molly', email: 'molly.casey@upstart.com', company: 'Upstart' },
+    { name: 'Nicholas', email: 'nicholas.desai@upstart.com', company: 'Upstart' },
+    { name: 'Prateek', email: 'prateek.bansal@upstart.com', company: 'Upstart' },
+    { name: 'Wenli Wu', email: 'wenli.wu@upstart.com', company: 'Upstart' },
+    { name: 'Kevin Lin', email: 'kevin.lin@upstart.com', company: 'Upstart' },
+    { name: 'Ryan', email: 'ryan.hipps@upstart.com', company: 'Upstart' },
+    { name: 'Chao Yan', email: 'chao.yan@upstart.com', company: 'Upstart' },
+    { name: 'Gerardo Flores', email: 'gerardo.flores@upstart.com', company: 'Upstart' },
+    { name: 'Chris', email: 'chris.french@upstart.com', company: 'Upstart' },
+    { name: 'Raney Cain', email: 'raney.cain@upstart.com', company: 'Upstart' },
+    { name: 'Arvin', email: 'arvin.bhathal@upstart.com', company: 'Upstart' },
+    { name: 'Priyal', email: 'priyal.mehta@upstart.com', company: 'Upstart' },
+    { name: 'Polina', email: 'polina.stepanova@upstart.com', company: 'Upstart' },
+    { name: 'Melissa', email: 'melissa.hargis@upstart.com', company: 'Upstart' }
 ];
 
 // List of targeted people 
